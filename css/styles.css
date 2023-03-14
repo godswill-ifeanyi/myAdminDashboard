@@ -84,6 +84,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    width: 75vw;
     background: #fff;
     padding: 15px 30px;
     border-bottom: 3px solid #594ef7;
